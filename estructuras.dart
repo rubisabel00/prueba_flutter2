@@ -10,10 +10,10 @@ void listExample(){
   numbers.add("siete");
   numbers.addAll(numbers2);
   numbers.sort();
- /*  numbers.removeAt(0);
+  numbers.removeAt(0);
   numbers.remove("siete");
   numbers.insert(0, "cero");
-  numbers.clear(); */
+  numbers.clear();
   print(numbers);
 
 
