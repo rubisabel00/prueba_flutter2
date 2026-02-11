@@ -2,7 +2,6 @@ void main() {
   // Función asignada a una variable
   var operacion = multiplicar;
   print(operacion(5, 7)); // Imprime: 35
-  
   // Función anónima (lambda)
   var sumar = (int a, int b) => a + b;
   print(sumar(3, 4)); // Imprime: 7
